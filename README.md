@@ -127,3 +127,4 @@ Con MVP cada capa tiene una única responsabilidad, lo que mejora el
 - Martin Fowler — GUI Architectures
 - Documentación oficial de TypeScript
 # exposicion_patronesdedise-o
+# exposicion_patronesdedise-o
